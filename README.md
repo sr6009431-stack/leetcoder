@@ -6,8 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 | [3516-find-closest-person](https://github.com/sr6009431-stack/leetcoder/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
