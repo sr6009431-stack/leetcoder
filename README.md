@@ -50,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 <!---LeetCode Topics End-->
