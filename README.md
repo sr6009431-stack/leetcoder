@@ -34,15 +34,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sr6009431-stack/leetcoder/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
