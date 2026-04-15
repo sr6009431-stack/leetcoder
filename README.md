@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
