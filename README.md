@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
+| [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/sr6009431-stack/leetcoder/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sr6009431-stack/leetcoder/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sr6009431-stack/leetcoder/tree/master/2427-number-of-common-factors) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sr6009431-stack/leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
