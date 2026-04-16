@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/sr6009431-stack/leetcoder/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sr6009431-stack/leetcoder/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sr6009431-stack/leetcoder/tree/master/2427-number-of-common-factors) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sr6009431-stack/leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sr6009431-stack/leetcoder/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/sr6009431-stack/leetcoder/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sr6009431-stack/leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sr6009431-stack/leetcoder/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
