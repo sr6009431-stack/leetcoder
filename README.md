@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
+| [0766-toeplitz-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
