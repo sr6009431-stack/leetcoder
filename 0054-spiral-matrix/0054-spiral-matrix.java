@@ -39,7 +39,6 @@ class Solution {
             }
         }
 
-        // 🔥 Convert array to List
         List<Integer> ans = new ArrayList<>();
         for (int num : result) {
             ans.add(num);
