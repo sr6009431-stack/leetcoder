@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sr6009431-stack/leetcoder/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sr6009431-stack/leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sr6009431-stack/leetcoder/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sr6009431-stack/leetcoder/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
