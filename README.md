@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sr6009431-stack/leetcoder/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/sr6009431-stack/leetcoder/tree/master/1952-three-divisors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/sr6009431-stack/leetcoder/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sr6009431-stack/leetcoder/tree/master/0073-set-matrix-zeroes) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sr6009431-stack/leetcoder/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sr6009431-stack/leetcoder/tree/master/0073-set-matrix-zeroes) |
