@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
+| [0566-reshape-the-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sr6009431-stack/leetcoder/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
