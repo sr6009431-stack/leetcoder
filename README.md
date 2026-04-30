@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
