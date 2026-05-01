@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sr6009431-stack/leetcoder/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/sr6009431-stack/leetcoder/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/sr6009431-stack/leetcoder/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 <!---LeetCode Topics End-->
