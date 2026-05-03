@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/sr6009431-stack/leetcoder/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sr6009431-stack/leetcoder/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sr6009431-stack/leetcoder/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
