@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sr6009431-stack/leetcoder/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/sr6009431-stack/leetcoder/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/sr6009431-stack/leetcoder/tree/master/1108-defanging-an-ip-address) |
+| [1816-truncate-sentence](https://github.com/sr6009431-stack/leetcoder/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sr6009431-stack/leetcoder/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
