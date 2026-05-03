@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sr6009431-stack/leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sr6009431-stack/leetcoder/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sr6009431-stack/leetcoder/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sr6009431-stack/leetcoder/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/sr6009431-stack/leetcoder/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3174-clear-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3174-clear-digits) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
