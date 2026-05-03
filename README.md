@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/sr6009431-stack/leetcoder/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sr6009431-stack/leetcoder/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/sr6009431-stack/leetcoder/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3174-clear-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/sr6009431-stack/leetcoder/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
