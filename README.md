@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/sr6009431-stack/leetcoder/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/sr6009431-stack/leetcoder/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/sr6009431-stack/leetcoder/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sr6009431-stack/leetcoder/tree/master/1832-check-if-the-sentence-is-pangram) |
