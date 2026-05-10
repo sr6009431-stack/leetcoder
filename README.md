@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sr6009431-stack/leetcoder/tree/master/0242-valid-anagram) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0132-palindrome-partitioning-ii) |
+| [0242-valid-anagram](https://github.com/sr6009431-stack/leetcoder/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sr6009431-stack/leetcoder/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/sr6009431-stack/leetcoder/tree/master/1108-defanging-an-ip-address) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sr6009431-stack/leetcoder/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sr6009431-stack/leetcoder/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sr6009431-stack/leetcoder/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sr6009431-stack/leetcoder/tree/master/3541-find-most-frequent-vowel-and-consonant) |
