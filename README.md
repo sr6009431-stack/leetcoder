@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sr6009431-stack/leetcoder/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sr6009431-stack/leetcoder/tree/master/0242-valid-anagram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sr6009431-stack/leetcoder/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sr6009431-stack/leetcoder/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0566-reshape-the-matrix) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sr6009431-stack/leetcoder/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sr6009431-stack/leetcoder/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sr6009431-stack/leetcoder/tree/master/2000-reverse-prefix-of-word) |
