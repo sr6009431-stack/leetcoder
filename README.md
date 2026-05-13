@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sr6009431-stack/leetcoder/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/sr6009431-stack/leetcoder/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3174-clear-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
