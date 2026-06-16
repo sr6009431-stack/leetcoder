@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sr6009431-stack/leetcoder/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sr6009431-stack/leetcoder/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sr6009431-stack/leetcoder/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -174,9 +175,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/sr6009431-stack/leetcoder/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sr6009431-stack/leetcoder/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3174-clear-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sr6009431-stack/leetcoder/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
