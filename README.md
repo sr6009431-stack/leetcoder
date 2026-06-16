@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sr6009431-stack/leetcoder/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sr6009431-stack/leetcoder/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/sr6009431-stack/leetcoder/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sr6009431-stack/leetcoder/tree/master/0059-spiral-matrix-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sr6009431-stack/leetcoder/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sr6009431-stack/leetcoder/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sr6009431-stack/leetcoder/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
