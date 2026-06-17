@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sr6009431-stack/leetcoder/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/0024-swap-nodes-in-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sr6009431-stack/leetcoder/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
