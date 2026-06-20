@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sr6009431-stack/leetcoder/tree/master/0326-power-of-three) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sr6009431-stack/leetcoder/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/sr6009431-stack/leetcoder/tree/master/1512-number-of-good-pairs) |
+| [1840-maximum-building-height](https://github.com/sr6009431-stack/leetcoder/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/sr6009431-stack/leetcoder/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/sr6009431-stack/leetcoder/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sr6009431-stack/leetcoder/tree/master/2413-smallest-even-multiple) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sr6009431-stack/leetcoder/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sr6009431-stack/leetcoder/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sr6009431-stack/leetcoder/tree/master/0242-valid-anagram) |
+| [1840-maximum-building-height](https://github.com/sr6009431-stack/leetcoder/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sr6009431-stack/leetcoder/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3467-transform-array-by-parity](https://github.com/sr6009431-stack/leetcoder/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/sr6009431-stack/leetcoder/tree/master/3536-maximum-product-of-two-digits) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sr6009431-stack/leetcoder/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sr6009431-stack/leetcoder/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/sr6009431-stack/leetcoder/tree/master/1816-truncate-sentence) |
+| [1840-maximum-building-height](https://github.com/sr6009431-stack/leetcoder/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/sr6009431-stack/leetcoder/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sr6009431-stack/leetcoder/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sr6009431-stack/leetcoder/tree/master/2022-convert-1d-array-into-2d-array) |
